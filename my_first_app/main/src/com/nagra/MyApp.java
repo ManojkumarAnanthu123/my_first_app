@@ -6,6 +6,7 @@ import javax.imageio.ImageIO;
 
 public class MyApp {
     public static void main(String[] args) {
+        System.out.println("hello world!! this is Manoj");
         try {
             // Load the image file
             File imageFile = new File("C:/Users/amano/my_first_app/my_first_app/src/main/resources/Images/nagralogo-1.png");
