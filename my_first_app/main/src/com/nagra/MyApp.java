@@ -6,15 +6,15 @@ import javax.imageio.ImageIO;
 
 public class MyApp {
     public static void main(String[] args) {
-        System.out.println("hello world!! this is Manoj");
+        System.out.println("Hello world!! This is Manoj");
         try {
             // Load the image file
             File imageFile = new File("C:/Users/amano/my_first_app/my_first_app/src/main/resources/Images/nagralogo-1.png");
             BufferedImage image = ImageIO.read(imageFile);
 
             // Resize the image to a smaller size for better ASCII representation
-            int newWidth = image.getWidth() / 8;
-            int newHeight = image.getHeight() / 8;
+            int newWidth = image.getWidth() /8;
+            int newHeight = image.getHeight() / 20;
             BufferedImage resizedImage = new BufferedImage(newWidth, newHeight, BufferedImage.TYPE_INT_RGB);
             resizedImage.createGraphics().drawImage(image, 0, 0, newWidth, newHeight, null);
 
