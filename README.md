@@ -79,11 +79,16 @@ You have two options to authenticate when pushing a change to your repository :
         - In term of Operating System, pre-installed app, etc...
     - What is the difference between a virtual machine and a docker container ?
 - Refer to https://www.markdownguide.org/basic-syntax/ to learn about markdown syntax (ie. how to include pictures)
-## Screenshots 
-(https://user-images.githubusercontent.com/130961136/233613446-a75d5048-7e20-42bd-b380-56465a390226.jpg)
-(https://user-images.githubusercontent.com/130961136/233613503-77b9cda7-fd3f-4b30-9d5f-52da4f302a8d.jpg)
+## Screenshots  
+![](doc//Dockerimage.jpg)
+![](doc//Dockeroutput.jpg)
+## Answers
+1.What is the prerequisite for another machine to run your application if you provide it the docker image ?
+If you provide a Docker image of your application to another machine, the prerequisite for that machine to run your application is to have Docker installed on it. Docker is a containerization platform that allows you to package your application along with its dependencies and libraries into a portable container, which can then be run on any machine that has Docker installed.
+2.What is the difference between a virtual machine and a docker container ?
+A virtual machine (VM) is a software emulation of a physical machine that runs an operating system (OS) and applications on top of a hypervisor. Each VM has its own guest OS, file system, and resources, such as CPU, memory, and storage.On the other hand, Docker is a containerization platform that allows you to package applications along with their dependencies and libraries into a portable container. Containers are isolated from the host system and other containers, but they share the same OS kernel. This means that containers are more lightweight and efficient than virtual machines, as they do not require a guest OS or hypervisor.
+
 ## Deadline!
 Send me your git repo link on discord through direct message by **Friday, 21th April, 5pm**.
 
-1. Screenshot 1  
-![](doc//Dockerimage.jpg)
+
