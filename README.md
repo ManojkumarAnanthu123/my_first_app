@@ -79,6 +79,6 @@ You have two options to authenticate when pushing a change to your repository :
         - In term of Operating System, pre-installed app, etc...
     - What is the difference between a virtual machine and a docker container ?
 - Refer to https://www.markdownguide.org/basic-syntax/ to learn about markdown syntax (ie. how to include pictures)
-## Deadline![photo_2023-04-21_15-54-56](https://user-images.githubusercontent.com/130961136/233613446-a75d5048-7e20-42bd-b380-56465a390226.jpg)![photo_2023-04-21_15-54-24](https://user-images.githubusercontent.com/130961136/233613503-77b9cda7-fd3f-4b30-9d5f-52da4f302a8d.jpg)
-
+## Screenshots[photo_2023-04-21_15-54-56](https://user-images.githubusercontent.com/130961136/233613446-a75d5048-7e20-42bd-b380-56465a390226.jpg)![photo_2023-04-21_15-54-24](https://user-images.githubusercontent.com/130961136/233613503-77b9cda7-fd3f-4b30-9d5f-52da4f302a8d.jpg)
+## Deadline!
 Send me your git repo link on discord through direct message by **Friday, 21th April, 5pm**.
