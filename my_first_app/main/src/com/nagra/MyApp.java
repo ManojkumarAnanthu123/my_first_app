@@ -9,7 +9,7 @@ public class MyApp {
         System.out.println("Hello world!! This is Manoj");
         try {
             // Load the image file
-            File imageFile = new File("C:/Users/amano/my_first_app/my_first_app/src/main/resources/Images/nagralogo-1.png");
+            File imageFile = new File("manoj.png");
             BufferedImage image = ImageIO.read(imageFile);
 
             // Resize the image to a smaller size for better ASCII representation
